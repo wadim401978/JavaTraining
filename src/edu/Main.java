@@ -11,7 +11,7 @@ public class Main {
         Solution.main(); 
         
 
-        main("string value"); //- программа выполнится
+        //main("string value"); //- программа выполнится
         //main(errors); //- программа зациклится
         
     }
